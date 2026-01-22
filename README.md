@@ -23,4 +23,4 @@ Active learning reduces labeling effort by querying only the most informative sa
 
 Model: Logistic Regression  
 Sampling Method: Uncertainty Sampling  
-Uncertainty Metric:  
+Uncertainty Metric : 1 − max(predicted class probability)
